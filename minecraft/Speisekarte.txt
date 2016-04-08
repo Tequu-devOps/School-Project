@@ -1,0 +1,6 @@
+Voraussetzung:
+-> RAM für Lullis die nicht mit Worldedit umgehen können
+-> Keine Telekom als Provider
+-> ne SSD mit min. 20GB (Backups und so :3)
+-> HurenJava7
+-> Kein Java 8

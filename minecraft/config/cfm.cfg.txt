@@ -1,0 +1,188 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    I:BlockAnimation=1540
+    I:BlockBasin=1546
+    I:BlockBath1=1548
+    I:BlockBath2=1549
+    I:BlockBedsideCabinet=1502
+    I:BlockBin=1554
+    I:BlockBirdBath=1525
+    I:BlockBlinds=1520
+    I:BlockBlindsClosed=1521
+    I:BlockCabinet=1513
+    I:BlockCeilingLight=1537
+    I:BlockChairStone=1505
+    I:BlockChairWood=1510
+    I:BlockChristmasTree=1552
+    I:BlockCoffeTableStone=1503
+    I:BlockCoffeeTableWood=1508
+    I:BlockComputer=1531
+    I:BlockCouchBlack=1518
+    I:BlockCouchBrown=1516
+    I:BlockCouchGreen=1515
+    I:BlockCouchRed=1517
+    I:BlockCouchWhite=1514
+    I:BlockCurtains=1522
+    I:BlockCurtainsClosed=1523
+    I:BlockDoorBell=1536
+    I:BlockElectricFence=1533
+    I:BlockFireAlarm=1534
+    I:BlockFireAlarmOff=1534
+    I:BlockFireAlarmOn=1535
+    I:BlockFreezer=1511
+    I:BlockFridge=1512
+    I:BlockHedge=1524
+    I:BlockLampOff=1507
+    I:BlockLampOn=1506
+    I:BlockMailBox=1529
+    I:BlockOven=1501
+    I:BlockOvenOverhead=1500
+    I:BlockPresent=1551
+    I:BlockPrinter=1532
+    I:BlockShowerBottom=1550
+    I:BlockShowerHeadOff=1555
+    I:BlockShowerHeadOn=1556
+    I:BlockShowerTop=1553
+    I:BlockStereo=1539
+    I:BlockStonePath=1526
+    I:BlockTV=1530
+    I:BlockTableStone=1504
+    I:BlockTableWood=1509
+    I:BlockTap=1528
+    I:BlockToilet=1545
+    I:BlockWallCabinet=1547
+    I:BlockWhiteFence=1527
+    I:lightBulbWhiteGlass=1544
+    I:yellowGlowBlock=1543
+}
+
+
+####################
+# freezer
+####################
+
+freezer {
+    I:initIDs <
+     >
+    I:resultIDs <
+     >
+}
+
+
+####################
+# item
+####################
+
+item {
+    I:ItemBasin=23054
+    I:ItemBath=23056
+    I:ItemBedsideCabinet=23000
+    I:ItemBin=23061
+    I:ItemBirdBath=23031
+    I:ItemBlinds=23011
+    I:ItemCabinet=23003
+    I:ItemCeilingLight=23052
+    I:ItemChairStone=23020
+    I:ItemChairWood=23002
+    I:ItemCoffeeTableStone=23022
+    I:ItemCoffeeTableWood=23004
+    I:ItemComputer=23045
+    I:ItemCookedFlesh=23026
+    I:ItemCoolPack=23019
+    I:ItemCouchBlack=23010
+    I:ItemCouchBrown=23008
+    I:ItemCouchGreen=23007
+    I:ItemCouchRed=23009
+    I:ItemCouchWhite=23006
+    I:ItemCrayfish=23063
+    I:ItemCurtains=23012
+    I:ItemDoorBell=23049
+    I:ItemElectricFence=23051
+    I:ItemEnvelope=23036
+    I:ItemEnvelopeSigned=23037
+    I:ItemFireAlarm=23048
+    I:ItemFlesh=23025
+    I:ItemFridge=23005
+    I:ItemHammer=23043
+    I:ItemHedgeBasic=23027
+    I:ItemHedgeBirch=23029
+    I:ItemHedgeJungle=23030
+    I:ItemHedgeSpruce=23028
+    I:ItemInkCartridge=23047
+    I:ItemLamp=23018
+    I:ItemMailBox=23035
+    I:ItemOven=23023
+    I:ItemOvenOverhead=23024
+    I:ItemPackage=23039
+    I:ItemPackageSigned=23040
+    I:ItemPresent=23058
+    I:ItemPrinter=23046
+    I:ItemShower=23057
+    I:ItemShowerHead=23062
+    I:ItemStereo=23050
+    I:ItemStonePath=23032
+    I:ItemTV=23044
+    I:ItemTableStone=23021
+    I:ItemTableWood=23001
+    I:ItemTap=23034
+    I:ItemToilet=23053
+    I:ItemTree=23060
+    I:ItemWallCabinet=23055
+    I:ItemWhiteFence=23033
+}
+
+
+####################
+# minebay
+####################
+
+minebay {
+    I:currency=388
+    I:ids <
+     >
+    I:price <
+     >
+    I:size <
+     >
+}
+
+
+####################
+# oven
+####################
+
+oven {
+    I:initIDs <
+     >
+    I:resultIDs <
+     >
+}
+
+
+####################
+# printer
+####################
+
+printer {
+    I:initIDs <
+     >
+}
+
+
+####################
+# settings
+#===================
+# A range of settings to change in the mod
+####################
+
+settings {
+    B:christmasLock=true
+    B:display=true
+}
+
+

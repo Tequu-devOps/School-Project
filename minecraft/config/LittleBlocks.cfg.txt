@@ -1,0 +1,56 @@
+# Configuration file
+
+####################
+# block
+####################
+
+block {
+    S:disallowedBlockIDs=
+    I:littleChunkID=1150
+}
+
+
+####################
+# general
+####################
+
+general {
+    I:"New World-littleServerDimension[-1]"=3
+    I:"New World-littleServerDimension[0]"=4
+    I:"New World-littleServerDimension[1]"=2
+    I:disallowedLittleDimensionIds <
+        7
+        20
+     >
+    B:littleBlocksClip=true
+    I:littleBlocksCollectionID=3
+    B:littleBlocksForceUpdate=false
+    S:loggerLevel=INFO
+    I:renderingMethod=0
+    I:"world-littleServerDimension[0]"=2
+    B:zeroSpawnVelocity=false
+}
+
+
+####################
+# item
+####################
+
+item {
+    S:disallowedItemIDs=
+    I:littleBlocksWandID=29999
+}
+
+
+####################
+# overrides
+####################
+
+overrides {
+    I:doorIronIndex=92
+    I:doorWoodIndex=85
+    I:pistonBaseIndex=54
+    I:pistonStickyIndex=50
+}
+
+
